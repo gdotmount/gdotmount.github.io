@@ -1,3 +1,15 @@
-#profile-pic {
-    border-radius: 50%;
+#profile-pic {border-radius: 50%;}
+
+body {
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
 }
+
+.desc-info {font-family: "Comic Sans MS", "Comic Sans", cursive;}
+
+.link { color: #FF0000; }
+.link:hover { color: #00FF00; }
